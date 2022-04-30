@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName
 data class LodestoneCharacter(
     @SerializedName("Achievements") val achievements: Achievements,
     @SerializedName("AchievementsPublic") val achievementsPublic: Boolean,
-    @SerializedName("character") val character: Character,
+    @SerializedName("Character") val character: Character,
     @SerializedName("FreeCompany") val freeCompany: FreeCompany,
     @SerializedName("Friends") val friends: List<Friend>,
     @SerializedName("FriendsPublic") val friendsPublic: Boolean,

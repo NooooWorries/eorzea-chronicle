@@ -1,8 +1,8 @@
-package com.czxbnb.eorzea
+package com.czxbnb.eorzea.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.czxbnb.eorzea.ui.main.MainFragment
+import com.czxbnb.eorzea.R
 
 class MainActivity : AppCompatActivity() {
 

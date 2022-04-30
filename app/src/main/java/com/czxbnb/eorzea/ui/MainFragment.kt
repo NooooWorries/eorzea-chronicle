@@ -1,4 +1,4 @@
-package com.czxbnb.eorzea.ui.main
+package com.czxbnb.eorzea.ui
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
