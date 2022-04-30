@@ -8,7 +8,7 @@ import javax.inject.Inject
 
 class CharacterRemoteDataSource @Inject constructor(private val api: CharacterApi) :
     CharacterDataSource {
-    override suspend fun getLodestoneCharacter(lodestoneId: String?): Result<LodestoneCharacter>? {
+    override suspend fun getCharacterFromRemote(lodestoneId: String?): Result<LodestoneCharacter>? {
         return try {
             val response = api.getLodestoneCharacter(lodestoneId)
             Result.Success(response)
