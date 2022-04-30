@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908725868542",
+    "project_id": "eorzea-chronicle",
+    "storage_bucket": "eorzea-chronicle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908725868542:android:23e45da81112d880f352af",
+        "android_client_info": {
+          "package_name": "com.czxbnb.eorzea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908725868542-vrca5stscumomfvti9cqn03fr2a2n8sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12zsJBML194fj16pm_n4dBHiIebjwcYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908725868542-vrca5stscumomfvti9cqn03fr2a2n8sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
