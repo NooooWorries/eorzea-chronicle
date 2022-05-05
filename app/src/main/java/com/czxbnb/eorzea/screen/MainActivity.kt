@@ -1,4 +1,4 @@
-package com.czxbnb.eorzea.ui
+package com.czxbnb.eorzea.screen
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
