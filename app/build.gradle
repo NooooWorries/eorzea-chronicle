@@ -54,6 +54,7 @@ android {
     testOptions.unitTests {
         includeAndroidResources = true
     }
+    namespace 'com.czxbnb.eorzea'
 }
 
 dependencies {
